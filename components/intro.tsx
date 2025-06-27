@@ -72,7 +72,7 @@ const Intro = () => {
             >
                 <b className="font-bold">Hi, I&apos;m {OWNER_NAME.split(" ")[0]}.</b>{" "}
                 I&apos;m a <b className="font-bold">Student</b> with{" "}
-                <b className="font-bold">0 girlfriend</b> & like to code{" "}
+                <b className="font-bold">10 girlfriend whoes name is anshuka sharma,ankit mahto jee </b> & like to code{" "}
                 <i className="italic">Python</i>. code{" "}
                 <u className="underline">and want to become a coder</u>.
             </motion.h1>
